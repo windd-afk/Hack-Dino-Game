@@ -1,0 +1,1 @@
+Override the game-over function so collisions are ignored:  Runner.instance_.setSpeed(100)
