@@ -1,0 +1,1 @@
+Set the running speed to any number (default is around 6): Runner.instance_.setSpeed(100)
