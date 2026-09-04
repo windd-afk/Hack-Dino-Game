@@ -1,0 +1,1 @@
+Change how high the dinosaur jumps (default is 10):Runner.instance_.tRex.setJumpVelocity(25)
